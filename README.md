@@ -23,7 +23,7 @@
 
 # 👋 Hi, I'm Vishal
 
-💻 Aspiring Software Engineer | Full-Stack Web Developer  
+💻 Software Engineer | Full-Stack Web Developer  
 
 
 ## 📫 How to reach me:
