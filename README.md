@@ -29,7 +29,8 @@
 JavaScript | Python | c++ | react | Node.js | Express | MongoDB | PostgreSQL | Tailwind CSS
 
 ### 📫 Connect with me
-[LinkedIn](https://www.linkedin.com/in/vishal-n-406896237/) • [Email](vishalnayak3825@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/vishal-n-406896237))  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalnayak3825@gmail.com)
 
 
 
