@@ -21,7 +21,7 @@
 
 
 
-# 👋 Hi, I'm Vishal
+# 👋 Hi, I'm Vishal Nayak
 
 💻 Software Engineer | Full-Stack Web Developer  
 
