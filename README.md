@@ -22,14 +22,15 @@
 
 
 # Hey there 👋
+<img width="1444" height="312" alt="ascii-art-text" src="https://github.com/user-attachments/assets/24967efc-f75d-4323-acf1-f8900dd84969" />
 
 ## About me
 Hi there 👋.I’m Vishal Nayak. I enjoy building modern, efficient, and user-friendly web applications. Passionate about learning, problem-solving, and creating meaningful digital experiences.
 Always exploring new ideas to craft better and smarter solutions.
 
-## 📫 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-n-406896237)
-[![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:vishalnayak3825@gmail.com)
+## Get in touch ☕
+- [LinkedIn](https://linkedin.com/in/vishal-n-406896237)  
+- [Mail](mailto:vishalnayak3825@gmail.com)
 
 
 
