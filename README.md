@@ -21,9 +21,11 @@
 
 
 
-# 👋 Hi, I'm Vishal Nayak
+# Hey there 👋
 
-I'm a self-taught passionate developer from India.
+## About me
+Hi there 👋.I’m Vishal Nayak. I enjoy building modern, efficient, and user-friendly web applications. Passionate about learning, problem-solving, and creating meaningful digital experiences.
+Always exploring new ideas to craft better and smarter solutions.
 
 ## 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-n-406896237)
