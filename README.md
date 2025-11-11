@@ -23,8 +23,7 @@
 
 # 👋 Hi, I'm Vishal Nayak
 
-💻 Software Engineer | Full-Stack Web Developer  
-
+I'm a self-taught passionate developer from India.
 
 ## 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-n-406896237)
