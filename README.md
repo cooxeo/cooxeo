@@ -25,8 +25,11 @@
 <img width="1444" height="312" alt="ascii-art-text" src="https://github.com/user-attachments/assets/24967efc-f75d-4323-acf1-f8900dd84969" />
 
 ## About me
-Hi there 👋. I’m Vishal Nayak. I enjoy building modern, efficient, and user-friendly web applications. Passionate about learning, problem-solving, and creating meaningful digital experiences.
-Always exploring new ideas to craft better and smarter solutions.
+- I’m **Vishal Nayak**, a software engineer who enjoys building reliable and efficient systems.
+- I work across **full-stack web development** with a focus on clean architecture and practical solutions.
+- I actively practice **DSA and problem-solving** to strengthen my technical foundation.
+- I explore **Linux**, including system tools, Bash scripting, and workflow optimization.
+- I enjoy learning new technologies and improving how I build, debug, and ship software.
 
 ## Get in touch ☕
 - [LinkedIn](https://linkedin.com/in/vishal-n-406896237)  
