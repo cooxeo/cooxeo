@@ -33,7 +33,7 @@
 
 ## Get in touch ☕
 - [LinkedIn](https://linkedin.com/in/vishal-n-406896237)  
-- [Mail](mailto:vishalnayak3825@gmail.com)
+- [Mail](mailto:palthyavishalnayak@gmail.com)
 
 
 
